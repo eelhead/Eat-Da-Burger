@@ -18,6 +18,10 @@ CREATE a new burger using the "Place Order" form, which...
 hits a /burger/create route in Express to insert a new burger into the MySQL database
 re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
 
+
+![screen shot 2018-02-25 at 6 53 41 pm](https://user-images.githubusercontent.com/31674994/36649899-97ae9d56-1a5d-11e8-81f3-cf938ad4f72a.png)
+
+
 Technologies Used
 Node.js
 MySQL Workbench
@@ -34,6 +38,9 @@ npm install
 Finally, run the node server locally.
 
 node server
-Now, open the local application on port 8080 at the URL: http://localhost:8080/.
+Now, open the local application on port 3030 at the URL: http://localhost:3030/.
 
 Enjoy!
+
+
+![screen shot 2018-02-25 at 6 55 02 pm](https://user-images.githubusercontent.com/31674994/36649900-99805ab6-1a5d-11e8-967d-012fa61bc879.png)
